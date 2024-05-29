@@ -44,3 +44,18 @@ main {
     background-color: coral;
     color:white;
 }
+
+/*Unit 3 Lesson 5.3*/
+a {
+    color: black;
+    background-color: white;
+}
+a:hover,a:focus {
+    color: white;
+    background-color: black;
+}
+
+p#overview:first-letter {
+  font-family: Georgia, serif;
+  font-size: 2em;
+}
