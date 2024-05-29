@@ -20,3 +20,27 @@ div {
 p {
     border-bottom: 1px solid red;
 }
+
+/*Unit 3 Lesson 5.2*/
+#skipnav {
+    width: 10em;
+}
+
+.info {
+    width: 10%;
+    font-size: 1.2em;
+}
+
+#overview {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.temp {
+    font-style: italic;
+}
+
+main {
+    background-color: coral;
+    color:brown;
+}
